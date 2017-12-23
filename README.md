@@ -1,10 +1,11 @@
 # apishell
 
-FIXME: description
+This application provides a command like interface to "speak" with apis from. This application allows for api calls to 
+be scripted without writing any networking code.
 
 ## Installation
 
-Download from http://example.com/FIXME.
+TODO: (not a priority until implementation is complete)
 
 ## Usage
 
@@ -12,25 +13,6 @@ FIXME: explanation
 
     $ java -jar apishell-0.1.0-standalone.jar [args]
 
-## Options
-
-FIXME: listing of options this app accepts.
-
 ## Examples
 
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2017 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+$ apishell path.api.com/api arg1=value arg2=value
